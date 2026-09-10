@@ -1,9 +1,7 @@
-//___FILEHEADER___
-
 import SwiftUI
 
 @main
-struct ___PACKAGENAME:identifier___App: App {
+struct Silly_Is_Life_______________ProbablyApp: App {
     var body: some Scene {
         WindowGroup {
             ContentView()
