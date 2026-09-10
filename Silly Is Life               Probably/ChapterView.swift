@@ -13,6 +13,15 @@ struct ChapterView: View {
                             .frame(height: 100)
                         Text("The Journey of Unit 2763")
                     }
+                    NavigationLink {
+                        Story2View()
+                    } label: {
+//                        Image("789")
+//                            .resizable()
+//                            .scaledToFit()
+//                            .frame(height: 100)
+                        Text("Numerical Chronicles: 789")
+                    }
                 }
                 .navigationTitle("Book Selections")
             }
