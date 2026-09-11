@@ -16,10 +16,10 @@ struct ChapterView: View {
                     NavigationLink {
                         Story2View()
                     } label: {
-//                        Image("789")
-//                            .resizable()
-//                            .scaledToFit()
-//                            .frame(height: 100)
+                        Image("789")
+                            .resizable()
+                            .scaledToFit()
+                            .frame(height: 100)
                         Text("Numerical Chronicles: 789")
                     }
                 }
